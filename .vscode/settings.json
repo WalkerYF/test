@@ -48,5 +48,6 @@
         "stack": "cpp",
         "mpi.h": "c"
     },
-    "latex-workshop.debug.showUpdateMessage": false
+    "latex-workshop.debug.showUpdateMessage": false,
+    "C_Cpp.intelliSenseEngine": "Default" 
 }
