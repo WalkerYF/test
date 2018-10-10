@@ -1,0 +1,96 @@
+10/10/2018 03:34:30 PM - simple_example - DEBUG 
+logger.py - logger - <module> - 26 
+debug message
+10/10/2018 03:34:30 PM - simple_example - INFO 
+logger.py - logger - <module> - 27 
+info message
+10/10/2018 03:34:30 PM - simple_example - WARNING 
+logger.py - logger - <module> - 28 
+warn message
+10/10/2018 03:34:30 PM - simple_example - ERROR 
+logger.py - logger - <module> - 29 
+error message
+10/10/2018 03:34:30 PM - simple_example - CRITICAL 
+logger.py - logger - <module> - 30 
+critical message
+10/10/2018 03:34:30 PM - simple_example - INFO 
+logger.py - logger - <module> - 31 
+test
+10/10/2018 03:34:30 PM - simple_example - INFO 
+logger.py - logger - <module> - 35 
+b is 100
+10/10/2018 03:34:30 PM - simple_example - WARNING 
+logger.py - logger - <module> - 37 
+warning !
+10/10/2018 03:34:30 PM - simple_example - DEBUG 
+logger.py - logger - func - 40 
+debug in func
+10/10/2018 03:34:30 PM - simple_example - INFO 
+logger.py - logger - func - 41 
+in this function
+10/10/2018 03:34:30 PM - simple_example - WARNING 
+logger.py - logger - func - 42 
+in this function!!!!
+10/10/2018 03:34:30 PM - simple_example - DEBUG 
+logger.py - logger - func - 43 
+('(unknown file)', 0, '(unknown function)', None)
+10/10/2018 03:43:45 PM - simple_example - DEBUG 
+logger.py - logger - <module> - 26 
+debug message
+10/10/2018 03:43:45 PM - simple_example - INFO 
+logger.py - logger - <module> - 27 
+info message
+10/10/2018 03:43:45 PM - simple_example - WARNING 
+logger.py - logger - <module> - 28 
+warn message
+10/10/2018 03:43:45 PM - simple_example - ERROR 
+logger.py - logger - <module> - 29 
+error message
+10/10/2018 03:43:45 PM - simple_example - CRITICAL 
+logger.py - logger - <module> - 30 
+critical message
+10/10/2018 03:43:45 PM - simple_example - INFO 
+logger.py - logger - <module> - 31 
+test
+10/10/2018 03:43:45 PM - simple_example - INFO 
+logger.py - logger - <module> - 37 
+b is 100
+10/10/2018 03:43:45 PM - simple_example - WARNING 
+logger.py - logger - <module> - 39 
+warning !
+10/10/2018 03:43:45 PM - simple_example - INFO 
+logger.py - logger - func - 43 
+in this function
+10/10/2018 03:43:45 PM - simple_example - WARNING 
+logger.py - logger - func - 44 
+in this function!!!!
+10/10/2018 03:56:44 PM - simple_example - DEBUG 
+logger.py - logger - <module> - 26 
+debug message
+10/10/2018 03:56:44 PM - simple_example - INFO 
+logger.py - logger - <module> - 27 
+info message
+10/10/2018 03:56:44 PM - simple_example - WARNING 
+logger.py - logger - <module> - 28 
+warn message
+10/10/2018 03:56:44 PM - simple_example - ERROR 
+logger.py - logger - <module> - 29 
+error message
+10/10/2018 03:56:44 PM - simple_example - CRITICAL 
+logger.py - logger - <module> - 30 
+critical message
+10/10/2018 03:56:44 PM - simple_example - INFO 
+logger.py - logger - <module> - 31 
+test
+10/10/2018 03:56:44 PM - simple_example - INFO 
+logger.py - logger - <module> - 37 
+b is 100
+10/10/2018 03:56:44 PM - simple_example - WARNING 
+logger.py - logger - <module> - 39 
+warning !
+10/10/2018 03:56:44 PM - simple_example - INFO 
+logger.py - logger - func - 43 
+in this function
+10/10/2018 03:56:44 PM - simple_example - WARNING 
+logger.py - logger - func - 44 
+in this function!!!!

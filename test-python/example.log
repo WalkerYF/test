@@ -1,0 +1,9 @@
+INFO:root:test
+INFO:root:b is 100
+WARNING:root:warning !
+INFO:root:in this function
+WARNING:root:in this function!!!!
+DEBUG:root:debug in func
+INFO:root:test
+INFO:root:b is 100
+WARNING:root:warning !
